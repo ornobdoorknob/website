@@ -7,7 +7,7 @@ const Projects = () => {
     <div class = "rounded-xl text-white bg-secondary mx-5 border-white">
         <div class = "p-5 flex flex-col">
             <div class = "rounded-xl overflow-hidden">
-                <img src = "images/website.png"></img>
+                <img src = "website.png"></img>
             </div>
             <div class = "font-poppins text-lg">Portfolio Website</div>
             <div>
@@ -22,7 +22,7 @@ const Projects = () => {
     <div class = "rounded-xl text-white bg-secondary mx-5">
         <div class = "p-5 flex flex-col">
             <div class = "rounded-xl overflow-hidden">
-            <img src = "images/javasearch.png"></img>
+            <img src = "javasearch.png"></img>
             </div>
             <div class = "font-poppins text-lg">Sort and Search Algorithms</div>
             <div>
@@ -35,7 +35,7 @@ const Projects = () => {
     <div class = "rounded-xl text-white bg-secondary mx-5">
         <div class = "p-5 flex flex-col">
             <div class = "rounded-xl overflow-hidden">
-            <img src = "images/c.png"></img>
+            <img src = "c.png"></img>
             </div>
             <div class = "font-poppins text-lg">Phone Number Formatter</div>
             <div>

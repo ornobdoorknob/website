@@ -10,22 +10,22 @@ const ContactCard = () => {
                         <div class="font-poppins">
                             <div class="py-2">
                                 <div class="inline-flex space-x-2 items-center">
-                                    <img class="h-7" src="images/phone.svg" /><span><a href = "tel:6132225346">+1 (613) 222 5346</a></span>
+                                    <img class="h-7" src="phone.svg" /><span><a href = "tel:6132225346">+1 (613) 222 5346</a></span>
                                 </div>
                             </div>
                             <div class="py-2">
                                 <div class="inline-flex space-x-2 items-center">
-                                    <img class="h-7" src="images/email.svg" /><span><a href = "mailto:arna0016@algonquinlive.com">arna0016@algonquinlive.com</a></span>
+                                    <img class="h-7" src="email.svg" /><span><a href = "mailto:arna0016@algonquinlive.com">arna0016@algonquinlive.com</a></span>
                                 </div>
                             </div>
                             <div class="py-2">
                                 <div class="inline-flex space-x-2 items-center">
-                                    <img class="h-7" src="images/linkedin.png" /><span><a href="https://www.linkedin.com/in/tahmid-khan-arnab/">Linkedin</a></span>
+                                    <img class="h-7" src="linkedin.png" /><span><a href="https://www.linkedin.com/in/tahmid-khan-arnab/">Linkedin</a></span>
                                 </div>
                             </div>
                             <div class="py-2">
                                 <div class="inline-flex space-x-2 items-center">
-                                    <img class="h-7" src="images/github.png" /><span><a href="https://github.com/ornobdoorknob">Github</a></span>
+                                    <img class="h-7" src="github.png" /><span><a href="https://github.com/ornobdoorknob">Github</a></span>
                                 </div>
                             </div>
                         </div>

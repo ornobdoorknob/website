@@ -25,7 +25,7 @@ module.exports = {
       xl: "1700px",
     },
     backgroundImage: {
-      'nightsky': "url('images/nightsky.jpeg')"
+      'nightsky': "url('nightsky.jpeg')"
     }
   },
   plugins: [],
