@@ -25,7 +25,7 @@ module.exports = {
       xl: "1700px",
     },
     backgroundImage: {
-      'nightsky': "url('nightsky.jpeg')"
+      'nightsky': "url('https://cdn.discordapp.com/attachments/1070934952910278716/1081074440865058886/nightsky.jpeg')"
     }
   },
   plugins: [],
