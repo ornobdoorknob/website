@@ -2,7 +2,6 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Header from './components/Header';
 import Projects from './components/Projects';
-import ContactCard from './components/ContactCard';
 
 const App = () => (
   <body>
@@ -10,7 +9,6 @@ const App = () => (
     <Header />
     <Hero />
     <Projects />
-    <ContactCard />
     <Footer />
   </div >
   </body>

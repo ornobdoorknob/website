@@ -10,15 +10,18 @@ const Footer = () => {
                 </a>
                 <ul class="flex flex-wrap items-center mb-6 text-sm sm:mb-0 text-gray-500">
                     <li class="px-3 font-poppins">
-                        <a href="https://www.linkedin.com/in/tahmid-khan-arnab/" class="mr-4 md:mr-6 hover:text-white"><img src="linkedin.png" className='h-6'></img>Linkedin</a>
+                        <a href="https://www.linkedin.com/in/tahmid-khan-arnab/" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="linkedin.png" className='h-6'></img>Linkedin</a>
                     </li>
                     <li class="px-3 font-poppins">
-                        <a href="https://github.com/ornobdoorknob" class="mr-4 md:mr-6 hover:text-white"><img src="github.png" className='h-6'></img>Github</a>
+                        <a href="https://github.com/ornobdoorknob" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="github.png" className='h-6'></img>Github</a>
+                    </li>
+                    <li class="px-3 font-poppins">
+                        <a href="mailto:arna0016@algonquinlive.com" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="email.svg" className='h-6'></img>Email</a>
                     </li>
                 </ul>
             </div>
             <hr class="my-6 sm:mx-auto border-gray-500 lg:my-8" />
-            <span class="block text-sm text-gray-500 sm:text-center">©<a href="https://tahmidkhan.com/" class="hover:text-white">Tahmid Khan Arnab</a>. All Rights Reserved.
+            <span class="block text-sm text-gray-500 sm:text-center">©<a href="https://tahmidkhan.com/" class="transition-all duration-500 hover:text-white">Tahmid Khan Arnab</a>. All Rights Reserved.
             </span>
         </footer>
 

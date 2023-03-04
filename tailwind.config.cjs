@@ -24,9 +24,13 @@ module.exports = {
       lg: "1200px",
       xl: "1700px",
     },
-    backgroundImage: {
-      'nightsky': "url('https://cdn.discordapp.com/attachments/1070934952910278716/1081074440865058886/nightsky.jpeg')"
-    }
+    dropShadow: {
+      '3xl': '0 35px 35px rgba(0, 0, 0, 0.25)',
+      '4xl': [
+          '0 35px 35px rgba(0, 0, 0, 0.25)',
+          '0 45px 65px rgba(0, 0, 0, 0.15)'
+      ]
+    },
   },
   plugins: [],
 };
