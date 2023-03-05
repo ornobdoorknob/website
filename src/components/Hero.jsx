@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div class="bg-gradient-to-r to-cyan-400 from-blue-500 w-full bg-center flex items-center xl:px-96">
+        <div class="bg-gradient-to-r to-cyan-400 from-blue-500 w-full bg-center flex items-center md:px-96">
             <div class="text-white min-h-fit py-60 px-20 drop-shadow-4xl">
                 <div class = "font-oswald text-3xl">Hi, my name is</div>
                 <div class = "font-oswald text-8xl">Tahmid Khan Arnab</div>
