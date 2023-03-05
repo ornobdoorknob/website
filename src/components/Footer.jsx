@@ -5,7 +5,6 @@ const Footer = () => {
         <footer class="p-4 md:px-6 md:py-8 bg-secondary mt-auto mb-0">
             <div class="sm:flex sm:items-center sm:justify-between font-oswald">
                 <a href="https://tahmidkhan.com/" class="flex items-center mb-4 sm:mb-0">
-                    <img src="logo.png" class="h-8 mr-3" />
                     <span class="self-center text-xl whitespace-nowrap text-white">Tahmid Khan</span>
                 </a>
                 <ul class="flex flex-wrap items-center mb-6 text-sm sm:mb-0 text-gray-500">
