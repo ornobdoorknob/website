@@ -5,12 +5,14 @@ import Projects from './components/Projects';
 
 const App = () => (
   <body>
-      <div className="bg-primary w-full overflow-hidden">
-    <Header />
-    <Hero />
-    <Projects />
-    <Footer />
-  </div >
+    <div class="min-h-screen bg-primary w-full overflow-hidden">
+      <Header />
+      <Hero />
+      <Projects />
+      <div class="sticky top-[100vh]">
+        <Footer />
+      </div>
+    </div>
   </body>
 )
 
