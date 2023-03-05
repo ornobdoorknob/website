@@ -3,7 +3,7 @@ import React from 'react'
 const Content = () => {
     return (
         <div>
-             <div class="pt-10 font-oswald ml-10 text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
+             <div class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
                     Skills
             </div>
             <div class="flex items-center justify-center min-h-auto container mx-auto w-full">
@@ -67,10 +67,10 @@ const Content = () => {
                     </div>
                 </div>
             </div>
-            <div class="pt-10 font-oswald ml-10 text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
+            <div class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
                     Projects
             </div>
-            <div class="py-10 flex items-center justify-center min-h-auto container mx-auto w-full">
+            <div class="py-10 flex items-center justify-center min-h-auto container mx-auto w-full text-center">
                 <div class="font-poppins grid grid cols-3 md:grid-cols-3 sm: grid-cols-1">
                     <div class="my-5 rounded-xl text-white bg-secondary mx-5">
                         <div class="p-5 flex flex-col">
