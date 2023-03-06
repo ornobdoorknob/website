@@ -12,7 +12,7 @@ const Footer = () => {
                         <a href="https://www.linkedin.com/in/tahmid-khan-arnab/" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="linkedin.png" className='h-6'></img>LinkedIn</a>
                     </li>
                     <li class="px-3 font-poppins">
-                        <a href="https://github.com/ornobdoorknob" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="github.png" className='h-6'></img>GitHub</a>
+                        <a href="https://github.com/ornobdoorknob" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="gh.png" className='h-6'></img>GitHub</a>
                     </li>
                     <li class="px-3 font-poppins">
                         <a href="mailto:arna0016@algonquinlive.com" class="transition-all duration-500 mr-4 md:mr-6 hover:text-white"><img src="email.svg" className='h-6'></img>Email</a>
