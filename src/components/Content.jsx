@@ -3,6 +3,7 @@ import React from 'react'
 const Content = () => {
     return (
         <div>
+            <div class = "min-h-screen border-b-4 border-cyan-400">
              <div class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
                     Skills
             </div>
@@ -67,6 +68,8 @@ const Content = () => {
                     </div>
                 </div>
             </div>
+            </div>
+            <div class = "min-h-screen align-center">
             <div class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
                     Projects
             </div>
@@ -115,6 +118,7 @@ const Content = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     )
 }
