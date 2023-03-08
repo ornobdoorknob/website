@@ -13,6 +13,6 @@ body::-webkit-scrollbar{
 background-color:black
 }
 body::-webkit-scrollbar-thumb{
-  background-image:linear-gradient(to top,#22d3ee,#3b82f6);
+  background-image:linear-gradient(to top,#fb7185,#6366f1);
   border-radius: 10px;
 }

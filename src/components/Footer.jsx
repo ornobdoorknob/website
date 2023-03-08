@@ -9,13 +9,13 @@ const Footer = () => {
                 </a>
                 <ul class="flex flex-wrap items-center mb-6 text-sm sm:mb-0 text-gray-500">
                     <li class="px-3 font-poppins">
-                        <a href="https://www.linkedin.com/in/tahmid-khan-arnab/" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="linkedin.png" className='h-6'></img>LinkedIn</a>
+                        <a target="_blank" href="https://www.linkedin.com/in/tahmid-khan-arnab/" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="linkedin.png" className='h-6'></img>LinkedIn</a>
                     </li>
                     <li class="px-3 font-poppins">
-                        <a href="https://github.com/ornobdoorknob" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="gh.png" className='h-6'></img>GitHub</a>
+                        <a target="_blank" href="https://github.com/ornobdoorknob" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="gh.png" className='h-6'></img>GitHub</a>
                     </li>
                     <li class="px-3 font-poppins">
-                        <a href="mailto:arna0016@algonquinlive.com" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="email.svg" className='h-6'></img>Email</a>
+                        <a target="_blank" href="mailto:arna0016@algonquinlive.com" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="email.svg" className='h-6'></img>Email</a>
                     </li>
                     <li class="px-3 font-poppins pt-4">
                         <a href='#top' class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"> <button class="border-2 border-white relative inline-flex items-center justify-center mb-2 mr-2 overflow-hidden text-lg font-medium text-white rounded-lg group bg-black">

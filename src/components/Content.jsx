@@ -3,9 +3,9 @@ import React from 'react'
 const Content = () => {
     return (
         <div>
-            <div>
+            <div class = "border-fuchsia-400 border-t-4">
                 <a name ="skills"></a>
-             <div name="skill" class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
+             <div name="skill" class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-t from-rose-400 via-fuchsia-500 to-indigo-500 text-transparent text-4xl font-extrabold text-center">
                     Skills
             </div>
             <div class="flex items-center justify-center min-h-auto container mx-auto w-full">
@@ -70,9 +70,9 @@ const Content = () => {
                 </div>
             </div>
             </div>
-            <div class = "align-center border-t-4 border-cyan-400">
+            <div class = "align-center border-t-4 border-fuchsia-400">
             <a name ="projects"></a>
-            <div class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-l to-cyan-400 from-blue-500 text-transparent text-4xl font-extrabold text-center">
+            <div class="pt-10 font-oswald text-4xl bg-clip-text bg-gradient-to-t from-rose-400 via-fuchsia-500 to-indigo-500 text-transparent text-4xl font-extrabold text-center">
                 Projects
             </div>
             <div class="py-10 flex items-center justify-center min-h-auto container mx-auto w-full text-center">
@@ -87,7 +87,7 @@ const Content = () => {
                                 <span class="bg-red-600 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">Java</span>
                             </div>
                             <div class="font-poppins text-xs">A program capable of initializing an Array and populating itm utilizing data structures and algorithms to sort and search through the Array and then printing the time taken.</div>
-                            <a href="https://github.com/ornobdoorknob/resume-projects/tree/main/SearchAndSort" class="mt-5 transition-all duration-300 text-center py-2 rounded-lg bg-primary hover:bg-white hover:text-black">View code</a>
+                            <a target="_blank" href="https://github.com/ornobdoorknob/resume-projects/tree/main/SearchAndSort" class="mt-5 transition-all duration-300 text-center py-2 rounded-lg bg-primary hover:bg-white hover:text-black">View code</a>
                         </div>
                     </div>
                     <div class="my-5 rounded-xl text-white bg-secondary mx-5">
@@ -100,7 +100,7 @@ const Content = () => {
                                 <span class="bg-blue-600 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">C</span>
                             </div>
                             <div class="font-poppins text-xs">A program capable of prompting user to input their phone number, and based on the input, adds generic formatting to the number and outputs a report to the user.</div>
-                            <a href="https://github.com/ornobdoorknob/resume-projects/tree/main/PhoneNumberFormatter" class="mt-5 transition-all duration-300 text-center py-2 rounded-lg bg-primary hover:bg-white hover:text-black">View code</a>
+                            <a target="_blank" href="https://github.com/ornobdoorknob/resume-projects/tree/main/PhoneNumberFormatter" class="mt-5 transition-all duration-300 text-center py-2 rounded-lg bg-primary hover:bg-white hover:text-black">View code</a>
                         </div>
                     </div>
                     <div class="my-5 rounded-xl text-white bg-secondary mx-5 border-white">
@@ -115,7 +115,7 @@ const Content = () => {
                                 <span class="bg-amber-400 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">ViteJS</span>
                             </div>
                             <div class="font-poppins text-xs">Responsive website built using a mobile-first approach utilizing TailwindCSS as framework for utilies, ReactJS for dynamic components and ViteJS for production optimization.</div>
-                            <a href="https://github.com/ornobdoorknob/website" class="mt-5 transition-all duration-300 text-center py-2 rounded-lg bg-primary hover:bg-white hover:text-black">View code</a>
+                            <a target="_blank" href="https://github.com/ornobdoorknob/website" class="mt-5 transition-all duration-300 text-center py-2 rounded-lg bg-primary hover:bg-white hover:text-black">View code</a>
                         </div>
                     </div>
                 </div>
