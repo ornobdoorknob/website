@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div name="top" class="w-full bg-center flex items-center h-screen place-content-center bg-primary bg-contain bg-[length:45px_50px] bg-[url('hideout.svg')] bg-fixed">
+        <div name="top" class="w-full bg-center flex items-center h-screen place-content-center bg-primary bg-[length:30px_33px] bg-[url('hideout.png')] bg-fixed">
             <div class="text-white py-20 px-10 drop-shadow-4xl md:text-left text-center">
                 <img src="instahd.png" className='py-2 object-center mx-auto md:mx-0 transition-all duration-300 rounded-full h-60 md:h-40' />
                 <div class="font-oswald text-2xl lg:text-4xl md:text-3xl">Hi, my name is</div>
