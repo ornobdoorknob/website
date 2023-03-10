@@ -18,7 +18,7 @@ const Footer = () => {
                         <a target="_blank" href="mailto:arna0016@algonquinlive.com" class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"><img src="email.svg" className='h-6'></img>Email</a>
                     </li>
                     <li class="px-3 font-poppins pt-4">
-                        <a href='#top' class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"> <button class="border-2 border-white relative inline-flex items-center justify-center mb-2 mr-2 overflow-hidden text-lg font-medium text-white rounded-lg group bg-black">
+                        <a href='#top' class="transition-all duration-300 mr-4 md:mr-6 hover:text-white"> <button class="border-2 border-white relative inline-flex items-center justify-center mb-2 mr-2 overflow-hidden text-lg font-medium text-white group bg-black">
                             <span class="relative px-2 py-2 transition-all ease-in duration-300 hover:bg-white hover:text-black bg-black">
                                 Back to the top
                             </span>

@@ -3,8 +3,8 @@ import Hero from './components/Hero';
 import Content from './components/Content';
 
 const App = () => (
-  <div class="min-h-screen w-full overflow-hidden bg-primary bg-fixed">
-    <div class="z-0">
+  <div class="min-h-screen w-full overflow-hidden bg-primary">
+    <div class="z-0 hero bg-primary bg-fixed">
       <Hero />
     </div>
     <div class = "z-10">
