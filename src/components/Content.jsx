@@ -70,7 +70,7 @@ const Content = () => {
                 </div>
             </div>
             </div>
-            <div class = "align-center border-t-4 hero bg-fixed">
+            <div class = "align-center border-t-4 hero bg-fixed bg-center">
             <a name ="projects"></a>
             <div class="pt-10 font-oswald text-4xl text-white font-extrabold text-center">
                 Projects

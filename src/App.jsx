@@ -4,7 +4,7 @@ import Content from './components/Content';
 
 const App = () => (
   <div class="min-h-screen w-full overflow-hidden bg-primary">
-    <div class="z-0 hero bg-primary bg-fixed">
+    <div class="z-0 hero bg-primary bg-fixed bg-center">
       <Hero />
     </div>
     <div class = "z-10">
