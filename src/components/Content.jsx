@@ -5,11 +5,11 @@ const Content = () => {
         <div class = "w-full">
             <div class = "border-t-4">
                 <a name ="skills"></a>
-             <div name="skill" class="pt-10 font-oswald text-4xl text-white text-4xl font-extrabold text-center">
+             <div name="skill" class="py-10 font-oswald text-4xl text-white text-4xl font-extrabold text-center">
                     Skills
             </div>
-            <div class="flex items-center justify-center min-h-auto container mx-auto w-full">
-                <div class="font-poppins grid grid cols-4 md:grid-cols-4 sm: grid-cols-2">
+            <div class="pb-10 flex items-center justify-center min-h-auto container mx-auto w-full">
+                <div class="font-poppins grid cols-4 md:grid-cols-4 sm: grid-cols-2">
                     <div class="my-5 rounded-xl text-white mx-5">
                         <div class="p-5 flex flex-col">
                             <div class="font-oswald text-lg">Programming Languages</div>
