@@ -5,11 +5,11 @@ const Content = () => {
         <div class = "w-full">
             <div class = "border-t-4">
                 <a name ="skills"></a>
-             <div name="skill" class="py-10 font-oswald text-4xl text-white text-4xl font-extrabold text-center">
+             <div name="skill" class="pt-10 font-oswald text-4xl text-white font-extrabold text-center">
                     Skills
             </div>
-            <div class="pb-10 flex items-center justify-center min-h-auto container mx-auto w-full">
-                <div class="font-poppins grid cols-4 md:grid-cols-4 sm: grid-cols-2">
+            <div class="py-10 flex items-center justify-center min-h-auto container mx-auto w-full">
+                <div class="font-poppins grid cols-4 md:grid-cols-4 spy-10m: grid-cols-2">
                     <div class="my-5 rounded-xl text-white mx-5">
                         <div class="p-5 flex flex-col">
                             <div class="font-oswald text-lg">Programming Languages</div>
@@ -86,8 +86,8 @@ const Content = () => {
                             <div>
                                 <span class="border-2 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">Java</span>
                             </div>
-                            <div class="font-poppins text-xs text-zinc-300">A program capable of initializing an Array and populating itm utilizing data structures and algorithms to sort and search through the Array and then printing the time taken.</div>
-                            <a target="_blank" href="https://github.com/ornobdoorknob/resume-projects/tree/main/SearchAndSort" class="mt-5 transition-all duration-300 text-center py-2 border-2 bg-primary hover:bg-white hover:text-black">View code</a>
+                            <div class="font-poppins text-xs text-zinc-300 my-1">A program capable of initializing an Array and populating itm utilizing data structures and algorithms to sort and search through the Array and then printing the time taken.</div>
+                            <a target="_blank" href="https://github.com/ornobdoorknob/resume-projects/tree/main/SearchAndSort" class="transition-all duration-300 text-center py-2 border-2 bg-primary hover:bg-white hover:text-black">View code</a>
                         </div>
                     </div>
                     <div class="border-2 my-5 text-white bg-secondary mx-5">
@@ -99,8 +99,8 @@ const Content = () => {
                             <div>
                                 <span class="border-2 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">C</span>
                             </div>
-                            <div class="font-poppins text-xs text-zinc-300">A program capable of prompting user to input their phone number, and based on the input, adds generic formatting to the number and outputs a report to the user.</div>
-                            <a target="_blank" href="https://github.com/ornobdoorknob/resume-projects/tree/main/PhoneNumberFormatter" class="mt-5 transition-all duration-300 text-center py-2 border-2 bg-primary hover:bg-white hover:text-black">View code</a>
+                            <div class="font-poppins text-xs text-zinc-300 my-1">A program capable of prompting user to input their phone number, and based on the input, adds generic formatting to the number and outputs a report to the user.</div>
+                            <a target="_blank" href="https://github.com/ornobdoorknob/resume-projects/tree/main/PhoneNumberFormatter" class="transition-all duration-300 text-center py-2 border-2 bg-primary hover:bg-white hover:text-black">View code</a>
                         </div>
                     </div>
                     <div class="border-2 my-5 text-white bg-secondary mx-5 border-white">
@@ -114,8 +114,8 @@ const Content = () => {
                                 <span class="border-2 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">TailwindCSS</span>
                                 <span class="border-2 text-white text-xs mr-2 px-2.5 py-0.5 rounded-full">ViteJS</span>
                             </div>
-                            <div class="font-poppins text-xs text-zinc-300">Responsive website built using a mobile-first approach utilizing TailwindCSS as framework for utilies, ReactJS for dynamic components and ViteJS for production optimization.</div>
-                            <a target="_blank" href="https://github.com/ornobdoorknob/website" class="mt-5 transition-all duration-300 text-center py-2 border-2 bg-primary hover:bg-white hover:text-black">View code</a>
+                            <div class="font-poppins text-xs text-zinc-300 my-1">Responsive website built using a mobile-first approach utilizing TailwindCSS as framework for utilies, ReactJS for dynamic components and ViteJS for production optimization.</div>
+                            <a target="_blank" href="https://github.com/ornobdoorknob/website" class="transition-all duration-300 text-center py-2 border-2 bg-primary hover:bg-white hover:text-black">View code</a>
                         </div>
                     </div>
                 </div>
